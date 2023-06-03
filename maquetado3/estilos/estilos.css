@@ -1,0 +1,243 @@
+html{
+    background-color: whitesmoke;
+}
+.mainbox{
+    width: 750px;
+    height: 1200px;
+    margin: auto;
+    background-color: #6C7A8C;
+}
+.introducction{
+    width: 750px;
+}
+
+.foto{
+    width: 280px;
+    height: 250px;
+    background-color: #6C7A8C;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.dp{
+    width: 455px;
+    margin: 0px 5px 5px 10px;
+    height: 25px;
+    background-color: #8090A6;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#dp{
+    margin: 0%;
+    color: red;
+}
+
+.d{
+    width: 455px;
+    margin-left: 10px;
+    margin-right: 5px;
+    height: 220px;
+    background-color: #BFBFBF;
+    float: left;
+}
+.expl{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #8090A6;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#dp2{
+    margin: 0%;
+    color: red;
+}
+.expld{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 80px;
+    background-color: #BFBFBF;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eyf{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #8090A6;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eyf1{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 96px;
+    background-color: #BFBFBF;
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.cyp{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #8090A6;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.leng{
+    width: 740px;
+    margin: 2px 5px 0px 5px;
+    height: 30px;
+    background-color: #8090A6;
+    float: left;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.lengd{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 70px;
+    background-color: #BFBFBF;
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.otros{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #8090A6;
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.otrosi{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 86px;
+    background-color: #BFBFBF;
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.cap{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #8090A6;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.capd{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 86px;
+    background-color: #BFBFBF;
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.per{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #8090A6;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.perd{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 70px;
+    background-color: #BFBFBF;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inf{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #8090A6;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.infd{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 70px;
+    background-color: #BFBFBF;
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+#dp3{
+    margin: 0%;
+    color: red;
+}
+#gus{
+    width: 240px;
+}
+a{
+    text-decoration: none;
+}
+#p2{
+    margin: 0px;
+}
+#p3{
+    margin: 0px 0px 0px 30px;
+}
+#dp5{
+    margin: 0%;
+    color: rgb(65, 65, 205);
+}
+#dp6{
+    margin: 0px 0px 0px 15px;
+    color: red;
+}
+#dp7{
+    margin: 0px 0px 0px 15px;
+    color: red;
+}
+#dp8{
+    margin: 0px 0px 0px 15px;
+    color: red;
+}
+#dp9{
+    margin: 0px 0px 0px 15px;
+    color: red;
+}
+#dp10{
+    margin: 0px 0px 0px 15px;
+    color: red;
+}
+li{
+    font-size: 15px;
+}
